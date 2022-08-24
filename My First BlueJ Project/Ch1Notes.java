@@ -27,6 +27,15 @@ public class Ch1Notes
         long n2 =3;
         short n3 = 7;
         
+        // Reserve Words:
+        // Public, Static, Void, Main, if, while, for, else, true, false
+        
+        // Java likes to input and output strings
+        // Identifiers can have no spaces, cannot start with a number,
+        // cannot have any special characters except for _ and $,
+        // cannot include reserve words, and has no character limit but 
+        // only 42 characters will be recognized
+        
         //These are Classes and Objects
         //Class     ID              Memory      Constructor
         //Name
@@ -35,6 +44,5 @@ public class Ch1Notes
         Double      number4 =       new         Double(6.7);
         
         System.out.print(word.length());
-        
     }
 }
