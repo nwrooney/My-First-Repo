@@ -36,6 +36,8 @@ public class Ch1Notes
         // cannot include reserve words, and has no character limit but 
         // only 42 characters will be recognized
         
+        //Chars and ints are the same thing!!
+        
         //These are Classes and Objects
         //Class     ID              Memory      Constructor
         //Name
